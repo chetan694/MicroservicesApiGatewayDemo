@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using UserService.Model;
 
+
 [ApiController]
 [Route("api/users")]
 public class UsersController : ControllerBase
