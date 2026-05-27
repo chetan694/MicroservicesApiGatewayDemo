@@ -10,7 +10,7 @@
         }
       ],
       "UpstreamPathTemplate": "/users",
-      "UpstreamHttpMethod": [ "GET", "POST" ]
+      "UpstreamHttpMethod": [ "GET", "POST"]
     },
     {
       "DownstreamPathTemplate": "/api/products",
