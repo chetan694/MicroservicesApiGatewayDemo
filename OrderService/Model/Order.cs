@@ -1,4 +1,4 @@
-﻿namespace OrderService.Model
+namespace OrderService.Model
 {
     public class Order
     {
